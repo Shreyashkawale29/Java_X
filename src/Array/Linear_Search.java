@@ -7,7 +7,6 @@ public class Linear_Search {
 		int arr[] = { 8, 14, 36, 62, 94, 35};
 		
 		int search = 62;
-		
 		int index = -1;
 		
 		
